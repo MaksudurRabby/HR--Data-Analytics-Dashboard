@@ -1,19 +1,19 @@
-📌 Project Title:
+📌 **Project Title:**
 HR Analytics Dashboard
 
-📌 Short Description:
+📌 **Short Description:**
 This HR Analytics Dashboard visualizes key workforce insights, including employee demographics, attrition trends, department-wise turnover, education background, job satisfaction, and gender-based attrition patterns. It helps understand employee behavior and supports data-driven HR decisions.
 
-📌 Objective:
+📌 **Objective:**
 To analyze workforce patterns, identify factors driving attrition, monitor employee satisfaction, and gain actionable insights that can improve employee retention and HR planning.
 
-📌 Data Source:
+📌 **Data Source:**
 Data Tutorials - YouTube (Used for learning and practice purposes)
 
-📌 Purpose of the Project:
+📌 **Purpose of the Project:**
 This dashboard was created as part of my personal learning journey to improve my data analysis and visualization skills using real-world HR scenarios.
 
-📌 Tech Stack Used:
+📌 **Tech Stack Used:**
 
 Power BI – for data modeling, transformation, and dashboard visualization
 Excel/CSV – for initial dataset handling
@@ -21,7 +21,7 @@ DAX – for creating calculated measures and KPIs
 Power Query – for data cleaning and preprocessing
 
 
-📌General Description of the Dashboard
+📌**General Description of the Dashboard**
 This dashboard gives an overview of the company’s workforce, employee turnover, satisfaction, and key HR metrics.
 
 **1. Overall Workforce Status**
